@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<div style="display:flex;flex-wrap:wrap;">
+<div style="display:flex;flex-wrap:wrap;align-items:stretch;">
 <img src="https://github-readme-stats.vercel.app/api?username=wizcas&count_private=true&show_icons=true&theme=gruvbox"
 alt="Wizcas's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizcas" alt="Top used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizcas&theme=gruvbox" alt="Top used languages" />
 </div>
 
 <!--
