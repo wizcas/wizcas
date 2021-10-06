@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 <div style="display:flex;flex-wrap:wrap;">
-<div>
-![Wizcas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizcas&count_private=true&show_icons=true&theme=gruvbox)
-</div>
-<div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizcas)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=wizcas&count_private=true&show_icons=true&theme=gruvbox"
+alt="Wizcas's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizcas" alt="Top used languages" />
 </div>
 
 <!--
