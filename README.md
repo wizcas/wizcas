@@ -2,8 +2,8 @@
 
 <div style="display:flex;flex-wrap:wrap;align-items:stretch;">
 <img src="https://github-readme-stats-forked.vercel.app/api?username=wizcas&count_private=true&show_icons=true&theme=gruvbox"
-alt="Wizcas's GitHub stats" />
-<img src="https://github-readme-stats-forked.vercel.app/api/top-langs/?username=wizcas&theme=gruvbox&layout=compact&hide=vim%20script,jupyter%20notebook,java" alt="Top used languages" />
+alt="Wizcas's GitHub stats" /><br/>
+<img src="https://github-readme-stats-forked.vercel.app/api/top-langs/?username=wizcas&theme=gruvbox&layout=compact&hide=vim%20script,jupyter%20notebook,java" alt="Top used languages" /><br/>
 <img src="https://github.com/user-attachments/assets/08d4170e-39d5-4d04-a808-d60b757214e6" style="max-width:100%" alt="Heat map" />
 </div>
 
