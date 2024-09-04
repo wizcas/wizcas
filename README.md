@@ -4,8 +4,8 @@
 <img src="https://github-readme-stats-forked.vercel.app/api?username=wizcas&count_private=true&show_icons=true&theme=gruvbox"
 alt="Wizcas's GitHub stats" />
 <img src="https://github-readme-stats-forked.vercel.app/api/top-langs/?username=wizcas&theme=gruvbox&layout=compact&hide=vim%20script,jupyter%20notebook,java" alt="Top used languages" />
+<img src="https://github.com/user-attachments/assets/5d5832aa-cbd9-444e-8f32-4666dcae3fbe" style="max-width:100%" alt="Heat map" />
 </div>
-
 <!--
 **wizcas/wizcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
